@@ -1,0 +1,22 @@
+{
+  "coins":[
+         {
+          "name": "Bitcoin",
+          "decimal": 8
+          "walletType": "out",
+          "image": "https://i.imgur.com/fGtidqc.png"
+         },
+         {
+          "name": "Litecoin",
+          "decimal": 8,
+          "walletType": "out",
+          "image": "https://i.imgur.com/I6bIXVd.png"
+         },
+         {
+          "name": "Dogecoin",
+          "decimal": 8,
+          "walletType": "out",
+          "image": "https://i.imgur.com/a96ETfY.png"
+         }
+  ]
+}
